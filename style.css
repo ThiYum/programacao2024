@@ -23,3 +23,14 @@ body{
     width: 100%;
     margin: 0 auto;
 }
+
+.titulo-principal{
+    text-align: center;
+    width: 100%;
+    font-size: 40px;
+}
+
+.botao {
+    font-family: 'Caveat', sans-serif;
+    background-color: var(--bota-ativo);
+}
